@@ -146,9 +146,6 @@
                         <!-- List -->
                         <ul role="list" class="pt-8 space-y-5 border-t border-gray-200 my-7 dark:border-gray-700">
                             <li class="flex space-x-3">                                
-                                <!-- <span
-                                    class="text-base font-medium leading-tight text-gray-900 dark:text-white">Continuous
-                                    integration and deployment</span>
                             </li>
                             <li class="flex space-x-3">
                         </ul>
